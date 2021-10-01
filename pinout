@@ -1,0 +1,7 @@
+   PB0 LED0 green
+   PB1 LED1 red
+5  PB2 PWM
+   PA7 KEY
+11 PA2 DS18B20 sensor
+   PA3 Buzzer
+   PA1 LED yellow
